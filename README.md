@@ -1,4 +1,4 @@
-##Auto-Seeder
+## Auto-Seeder
 
 Hello. Clone this repo and run `npm i` then `node autoSeed.js`.
 
