@@ -1,6 +1,6 @@
-Hello. Clone this repo, npm i and run node autoseed.js
+Hello. Clone this repo, npm i and run node autoSeed.js
 
-This will re-seed your db as long as the file is left to run every 5 minutes.
+This will re-seed your db as long as the file is left to run every 1 minute.
 
 Change the 1 in this
 `*/1 * * * *`
