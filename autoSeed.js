@@ -12,6 +12,6 @@ const seed = () => {
     });
 };
 
-cron.schedule("*/1 * * * * ", () => {
+cron.schedule("*/5 * * * * ", () => {
   seed();
 });
